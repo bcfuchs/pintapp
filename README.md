@@ -1,4 +1,4 @@
-mozfest14_upscience
+Pints of Science App
 ===================
 
-Mobile web app for upscience session mozfest14, minus some js
+Mobile web app for pints of science event. 
